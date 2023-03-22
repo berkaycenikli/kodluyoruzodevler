@@ -1,0 +1,22 @@
+h1, a, h2, ul, article, p, div {
+    max-width: max-content;
+    margin: auto;
+    }
+body {
+    background-color: orange;
+}
+.font-small {
+    font-size: 20px;
+}
+.font-medium {
+    font-size: 28px;
+}
+.font-large {
+    font-size: 40px;
+}
+h1 , h2 {
+    color: red;
+}
+ol {
+    list-style-position: inside;
+}
