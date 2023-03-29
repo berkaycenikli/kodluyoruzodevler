@@ -1,0 +1,28 @@
+.setmiddle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.setend {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.link {
+    color:aquamarine;
+    
+}
+.link:hover {
+    text-decoration: none;
+}
+body {
+    background-color: #E9ECEF;
+}
+.imgdesign {
+    padding: 0 0 0 90px;
+    width: 258.4px;
+    height: 350px;
+}
+.cardspace {
+    margin-bottom: 20px;
+}
