@@ -1,0 +1,155 @@
+.border_none{
+    border: 0;
+}
+body{
+    background-color: rgb(237, 237, 237);
+}
+
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+
+textarea:focus, input:focus{
+    outline: 0;
+}
+
+.border_bottom{
+    border-bottom: 1px solid gray;
+}
+
+.leftcard{
+    width: 250px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+.leftcard2{
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.lc2-1{
+    width: 250px;
+    height: 40px;
+    
+}
+
+.gray{
+    width: 250px;
+    height: 100px;
+    background-color: gray;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;;
+}
+
+.photo{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: -30px;
+}
+
+.abc{
+    height: 50px;
+}
+
+.abc1{
+    height: 80px;
+}
+
+.abc2{
+    height: 70px;
+}
+
+.share_box{
+    height: 116px;
+    width: 387px;
+
+}
+
+.photo-border {
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+}
+
+.custom-container {
+    padding: 120px 0px 40px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1700px;
+}
+.midbar-margin{
+    margin-bottom: 40px;
+}
+
+.linkfont-ayar {
+    color:black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.linkfont-ayar:hover {
+    color: blue;
+    text-decoration:underline;
+}
+.card-border {
+    border-radius: 12px;
+}
+.custom-button {
+    border-style: none;
+    color: #94989e;
+}
+.custom-button:hover {
+    background-color: rgba(177, 175, 175, 0.6);
+    color: #94989e;
+}
+.uniquefont-exp {
+    color:#94989e;
+}
+.uniquefont-exp:hover {
+    color:blue;
+    text-decoration: underline;
+}
+.uniquefont-link {
+    color: black;
+    text-decoration: underline;
+}
+.uniquefont-exp:hover {
+    color: blue;
+    text-decoration: underline;
+}
+.uniquefont-link2 {
+    color: black;
+}
+.leftbar-bg {
+
+}
+.leftbar-bg:hover {
+    background-color:#c8c8c9;
+}
+.fixed {
+    position: sticky;
+    top: 80px;
+}
+.fixed2 {
+    position: sticky;
+    top: 100px;
+}
+.uniqueul-li {
+    list-style-type: none;
+}
+.unique-photo {
+    border-radius: 50%;
+}
+.kenaryuvarlama {
+    border-radius: 20px;
+}
+.nohover {
+    pointer-events: none;
+}
